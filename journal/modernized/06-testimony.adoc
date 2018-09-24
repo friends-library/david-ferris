@@ -1,7 +1,7 @@
 [#testimony, short="Testimony From Wilmington Monthly Meeting"]
 == A Testimony
 
-[.alt]
+[.blurb]
 === From Wilmington Monthly Meeting, In the County Of Newcastle, on Delaware, Concerning David Ferris.
 
 He was the son of Zachariah and Sarah Ferris, and was born in Stratford,
