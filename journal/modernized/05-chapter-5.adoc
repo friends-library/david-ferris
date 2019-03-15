@@ -298,6 +298,9 @@ Pennsylvania, and from there home; from which I had been absent about ten weeks.
 We had travelled, by land and water, eight hundred miles.
 I was favoured with peace of mind, and found my family well.
 
+[.embedded-content-document.letter]
+--
+//I'm only guessing as to where this letter started. 
 1779+++.+++ I am now drawing towards the conclusion of life; being, this day,
 seventy two years of age.
 For the encouragement of others,
@@ -360,10 +363,14 @@ David Ferris
 [.signed-section-context-close]
 Wilmington, 5th Mo. 1779.
 
+[.postscript]
 P+++.+++ S. I do not think it probable that Friends will
 think the rough remarks and observations I have made,
 worth publishing; but they may possibly be of some use to my family, to whom, therefore,
 I leave them.
+//And here we are, 240 years later, publishing his remarks and observations. :) love it. 
 
 [.signed-section-signature]
 David Ferris
+
+--
