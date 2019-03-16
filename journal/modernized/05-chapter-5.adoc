@@ -360,6 +360,7 @@ David Ferris
 [.signed-section-context-close]
 Wilmington, 5th Mo. 1779.
 
+[.postscript]
 P+++.+++ S. I do not think it probable that Friends will
 think the rough remarks and observations I have made,
 worth publishing; but they may possibly be of some use to my family, to whom, therefore,
