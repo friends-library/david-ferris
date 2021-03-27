@@ -1,4 +1,4 @@
-[#testimony, short="Testimony From Wilmington Monthly Meeting"]
+[short="Testimony From Wilmington Monthly Meeting"]
 == A Testimony
 
 [.blurb]
